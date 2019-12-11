@@ -4,4 +4,8 @@ Basic script for linux to generate .sha512 files with the corresponding hash for
 
 To use: put the script in the folder you want to generate hashes for and click on the script.
 
-*you need to make the script executable first.
+Install coreutils to use this script: "apt-get install coreutils"
+
+*you need to make the script executable before using it
+
+"chmod +x hashallfiles.sh"
