@@ -1,6 +1,8 @@
 # SHA512 Checksum Generator for Kubuntu
 
-https://i.imgur.com/zRC8AUY.png
+
+![GitHub Logo](https://i.imgur.com/zRC8AUY.png)
+
 
 [1] Copy the *.desktop files to the following path: /home/******/.local/share/kservices5/ServiceMenus/
 
