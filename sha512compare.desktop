@@ -1,0 +1,13 @@
+[Desktop Action sha512compare]
+Exec=./sha512compare.sh
+Icon=kde
+Name=sha512compare
+
+[Desktop Entry]
+Type=Service
+Actions=sha512compare;
+Encoding=UTF-8
+Name=sha512compare
+Name[en_US]=sha512compare
+Icon=kde
+ServiceTypes=KonqPopupMenu/Plugin,all/all

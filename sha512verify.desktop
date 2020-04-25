@@ -1,0 +1,13 @@
+[Desktop Action sha512verify]
+Exec=./sha512verify.sh
+Icon=kde
+Name=sha512verify
+
+[Desktop Entry]
+Type=Service
+Actions=sha512verify;
+Encoding=UTF-8
+Name=sha512verify
+Name[en_US]=sha512verify
+Icon=kde
+ServiceTypes=KonqPopupMenu/Plugin,all/all

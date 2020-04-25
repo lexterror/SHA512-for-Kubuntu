@@ -1,0 +1,13 @@
+[Desktop Action sha512create]
+Exec=./sha512create.sh
+Icon=kde
+Name=sha512create
+
+[Desktop Entry]
+Type=Service
+Actions=sha512create;
+Encoding=UTF-8
+Name=sha512create
+Name[en_US]=sha512create
+Icon=kde
+ServiceTypes=KonqPopupMenu/Plugin,all/all
