@@ -1,4 +1,4 @@
-# SHA-512 Checksum Generator for Kubuntu
+# SHA512 Checksum Generator for Kubuntu
 
 https://i.imgur.com/zRC8AUY.png
 
